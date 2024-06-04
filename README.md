@@ -14,8 +14,8 @@ Welcome to the Food Catalogue App, a comprehensive guide for food enthusiasts lo
 
 ## Screenshots
 
-### Initial State
-![Initial State](images/initial_state.png)
+### Splash Screen
+![](Screenshot 2024-06-04 081628.png)
 
 ### After 2 Seconds
 ![After 2 Seconds](images/after_2_seconds.png)
