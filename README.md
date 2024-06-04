@@ -10,15 +10,18 @@ Welcome to the Food Catalogue App, a comprehensive guide for food enthusiasts lo
 - **50 Dishes & 16 Categories**: Explore a variety of dishes categorized into 16 distinct categories.
 - **Favorite Dishes**: Users can select their favorite dishes and save them for quick access.
 - **YouTube Video Tutorials**: Watch YouTube videos for each dish to learn how to make them.
-- **Delay Loading**: Uses a `Handler` and `Looper` to delay the display of a `ConstraintLayout`.
+
 
 ## Screenshots
 
 ### Splash Screen
-![](Screenshot 2024-06-04 081628.png)
+![](images/easyfood3.png)
 
-### After 2 Seconds
-![After 2 Seconds](images/after_2_seconds.png)
+### Home Screen
+![](images/easyfood1.png)
+
+### Recipe Screen
+![](images/easyfood2.png)
 
 ## Getting Started
 
